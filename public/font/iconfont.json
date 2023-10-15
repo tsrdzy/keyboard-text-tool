@@ -1,0 +1,30 @@
+{
+  "id": "4284552",
+  "name": "yn",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1486992",
+      "name": "win7",
+      "font_class": "win",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "6517480",
+      "name": "文件-文件-2",
+      "font_class": "wj-wj-2",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    },
+    {
+      "icon_id": "19211305",
+      "name": "立方体 立体 多面体 方块",
+      "font_class": "isolate",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    }
+  ]
+}
