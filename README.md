@@ -1,5 +1,7 @@
 # keyboard-text-tool
 
+node[V18.18.1] 
+
 ## Project setup
 ```
 npm install
